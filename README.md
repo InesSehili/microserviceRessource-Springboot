@@ -1,0 +1,1 @@
+un micro service spring boot qui gère les ressource; Enseignants, Salles, Empreinte digital, emplois du temps, et la gestion de détection de mouvement developper par Sehili Ines pour le projet de fin d'etude Master 2 , Septembre 2020. Contacter moi pour plus d'information: ines.sehili@univ-constantine2.dz
